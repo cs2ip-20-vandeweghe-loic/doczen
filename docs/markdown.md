@@ -28,8 +28,8 @@ icon: simple/markdown
 ## Links and images
 
 ```
-[Link text](https://example.com)
-[Link with title](https://example.com "Hover title")
+[Link text](https://cs2ip-20-vandeweghe-loic.github.io/doczen/)
+[Link with title](https://cs2ip-20-vandeweghe-loic.github.io/doczen/ "Hover title")
 ![Alt text](image.jpg)
 ![Image with title](image.jpg "Image title")
 ```

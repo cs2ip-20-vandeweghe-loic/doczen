@@ -68,3 +68,37 @@ title: Mermaid
         "Magnesium" : 10.01
         "Iron" :  5
     ```
+
+## Git
+
+=== "Code"
+
+    ````markdown
+    ```mermaid
+    gitGraph
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       commit
+       checkout main
+       commit
+       commit
+    ```
+    ````
+
+=== ":right_arrow: Result"
+
+    ```mermaid
+    gitGraph
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       commit
+       checkout main
+       commit
+       commit
+    ```
